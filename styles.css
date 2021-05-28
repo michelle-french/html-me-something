@@ -1,5 +1,48 @@
 body {
     background-color:darkcyan;
+    font-size: 20pt;
+    color:rgb(17, 10, 65);
+    width:fit-content;
+    height:max-content;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: darksalmon;
+    font-style:oblique;
+    height:175px;
+    margin:0px;
+    padding:0px;
+}
+
+p {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 80px;
+}
+
+h1 {
+    font-size: 45pt;
+    font-weight: 1000;
+    text-align: center;
+    border-block: 10px dashed navajowhite;
+}
+
+h3 {
+    font-size: 30pt;
+    text-align: center;
+    color:forestgreen;
+}
+
+h2 {
+    font-size: 40pt;
+    font-weight: 400;
+    color:navajowhite;
+    margin-left:0px;
+    background-color: rgb(17, 10, 65);
 }
 
 
@@ -11,9 +54,22 @@ body {
 
 
 
-
 img {
-    margin: 10px 0px;
+    border:darkolivegreen;
+    margin: 10px 100px 0px 60px;
     height: auto;
-    width: 10%;
+    width: 40%;
+    border-block: 5px solid rgb(17, 10, 65);
+    box-align: middle;
+    
+}
+
+#scarpic {
+    height: auto;
+    width: 30%;
+}
+
+.piccap {
+    color:darksalmon;
+    margin-left: 60px;
 }
