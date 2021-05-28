@@ -25,21 +25,24 @@ p {
 }
 
 h1 {
-    font-size: 45pt;
+    font-family: cursive;
+    font-size: 40pt;
     font-weight: 1200;
     text-align: center;
     border-block: 10px dashed navajowhite;
 }
 
 h3 {
-    font-size: 30pt;
+    font-family: cursive;
+    font-size: 25pt;
     text-align: center;
     color:forestgreen;
 }
 
 h2 {
-    font-size: 40pt;
-    font-weight: 750;
+    font-family: cursive;
+    font-size: 35pt;
+    font-weight: 500;
     color:navajowhite;
     margin-left:0px;
     background-color: rgb(17, 10, 65);
