@@ -26,7 +26,7 @@ p {
 
 h1 {
     font-size: 45pt;
-    font-weight: 1000;
+    font-weight: 1200;
     text-align: center;
     border-block: 10px dashed navajowhite;
 }
@@ -39,37 +39,35 @@ h3 {
 
 h2 {
     font-size: 40pt;
-    font-weight: 400;
+    font-weight: 750;
     color:navajowhite;
     margin-left:0px;
     background-color: rgb(17, 10, 65);
 }
 
-
-
-
-
-
-
-
-
-
 img {
-    border:darkolivegreen;
     margin: 10px 100px 0px 60px;
     height: auto;
-    width: 40%;
-    border-block: 5px solid rgb(17, 10, 65);
+    width: 30%;
+    border: 5px solid rgb(17, 10, 65);
     box-align: middle;
     
 }
 
 #scarpic {
     height: auto;
-    width: 30%;
+    width: 20%;
 }
 
 .piccap {
     color:darksalmon;
     margin-left: 60px;
+    font-style: italic;
+}
+
+footer {
+    color:forestgreen;
+    font-size: 10pt;
+    background-color: rgb(17, 10, 65);
+    text-align: center;
 }
